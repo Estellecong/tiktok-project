@@ -1,7 +1,25 @@
-# **Background on the TikTok scenario**
+# Tiktok Project
+## Project goal:
+The TikTok data team is developing a machine learning model for classifying claims made in videos submitted to the platform.
 
-At TikTok, our mission is to inspire creativity and bring joy. Our employees lead with curiosity and move at the speed of culture. Combined with our company's flat structure, you'll be given dynamic opportunities to make a real impact on a rapidly expanding company, and grow your career.
+## Background:
+TikTok is the leading destination for short-form mobile video. The platform is built to help imaginations thrive. TikTok's mission is to create a place for inclusive, joyful, and authentic content–where people can safely discover, create, and connect.
+## Tasks: 
+In this project, I undertook the following tasks to support TikTok's claim classification data:
 
-TikTok users have the ability to submit reports that identify videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. The process generates a large number of user reports that are challenging to consider in a timely manner. 
+**Data Processing:**
+* Collected and cleaned data from TikTok videos.
+* Handled missing values, outliers, and ensured data consistency.
+* Performed feature engineering to create meaningful variables for the model.
 
-TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
+**Exploratory Data Analysis (EDA):**
+* Conducted comprehensive EDA to understand data distribution and relationships.
+* Visualized key patterns.
+
+**Hypothesis Testing:**
+* Formulated and tested hypotheses to validate assumptions about the data.
+* Used statistical tests to identify significant features for the model.
+
+**Regression Model Development:**
+* Built and trained a regression model to classify claims.
+* Evaluated model performance
